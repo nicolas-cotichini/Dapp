@@ -6,3 +6,15 @@ Il progetto prevede lo studio di diverse infrastrutture di DLT che prevedono la 
 ## Progetto Blockchain in Maggioli - Stage++
 
 ---
+
+ # Descrizione dapp
+ 
+ # Descrizione tecnologie utilizzate
+ 
+ # Descrizione tecnica breve dell'implementazione
+ 
+ # Easter Egg / Citazione pop culture
+ 
+ # Foto pre / post tirocinio-progetto
+ 
+ # link ad Unicam, ChorChain, Maggioli 
